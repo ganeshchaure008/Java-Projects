@@ -1,15 +1,3 @@
-
-/* Facebook – Friends & Posts
-Instance variables: userId, name, friendsCount
-Static variable: platformName = "Facebook"
-
-Methods (all void):
-addFriend(String friendName) -> increases friendsCount and prints message
-createPost(String message) -> prints post details with user name
-displayProfile() -> prints profile info
-
-//Task: Create 3 users, add friends, create posts, and display profiles*/
-
 package wednesdayJava;
 
 import java.util.Scanner;
